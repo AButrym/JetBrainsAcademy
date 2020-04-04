@@ -1,3 +1,5 @@
+// https://hyperskill.org/projects/46?goal=7
+// Template, Factory, Strategy
 package encryptdecrypt;
 
 import java.io.FileWriter;
