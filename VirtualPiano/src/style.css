@@ -1,0 +1,31 @@
+body {
+  background-color: darkgreen;
+  height: 95vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+.container {
+  position: relative;
+}
+.white-key {
+  background-color: white;
+  padding: 125px 0 15px 0;
+  width: 35px;
+  font-size: larger;
+}
+.black-key {
+  background-color: black;
+  color: white;
+  position: absolute;
+  margin-left: -11px;
+  width: 20px;
+  padding: 80px 0 15px 0;
+  font-size: smaller;
+}
+kbd {
+  display: inline-block;
+  text-align: center;
+  border: 1px solid grey;
+  font-weight: bold;
+}
